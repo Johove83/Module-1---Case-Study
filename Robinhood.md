@@ -2,9 +2,9 @@
 
 ## Overview and Origin
 
-* Inspired by the Occupy Wallstreet movement, in response to the 2008 financial crisis, Vladimir Tenev and Baiju Bhatt incorporated Robinhood in April of 2013. Robinhood has raised $5.6 billion dollars in more than twenty rounds of venture capital funding.
+* Inspired by the **Occupy Wallstreet** movement, in response to the 2008 financial crisis, *Vladimir Tenev* and *Baiju Bhatt* incorporated **Robinhood** in April of 2013. **Robinhood** has raised $5.6 billion dollars in more than twenty rounds of venture capital funding.
 
-* According to Vladimir, "A lot of people lost faith in the financial system and it was becoming an insider game, and there were these sophisticated markets. Part of the reason was because hedge fund insiders had access to tools and resources that other people did not." He added, "We were inspired to build something meaningful and something that empowered consumers." [1]
+* According to *Vladimir*, "A lot of people lost faith in the financial system and it was becoming an insider game, and there were these sophisticated markets. Part of the reason was because hedge fund insiders had access to tools and resources that other people did not." He added, "We were inspired to build something meaningful and something that empowered consumers." [1]
 
 
 ## Business Activities:
@@ -14,16 +14,16 @@
 
 ## Landscape:
 
-* Over the past years Robinhood, TradeStation, Webull, Stash and other Financial Technologies companies inside of the financial services domain have consistently seen trends in customers becoming more comfortable in managing their money online. Digital-only banking is on the horizon, blockchain is completely remodeling finance on a global scale, and regulation is intensifying. 
+* Over the past years **Robinhood**, TradeStation, Webull, Stash and other Financial Technologies companies inside of the financial services domain have consistently seen trends in customers becoming more comfortable in managing their money online. Digital-only banking is on the horizon, blockchain is completely remodeling finance on a global scale, and regulation is intensifying. 
 
 ## Results
 
-* Robinhood has been credited with revolutionizing the trading system using metrics including user growth, engagement, assets under custody, tradsing activity and size of margin book. As of date, Robinhood is highly competitive and seems to be dominating it's parent domain. Most of note is that Robinhood offers zero-fee trading.
+* **Robinhood** has been credited with revolutionizing the trading system using metrics including user growth, engagement, assets under custody, tradsing activity and size of margin book. As of date, **Robinhood** is highly competitive and seems to be dominating it's parent domain. Most of note is that Robinhood offers zero-fee trading.
 
 
 ## Recommendations
 
-* Robinhood should offer interactive Robo-advising which allows the user to input personal preferences and returns the customer with investment strategies which introduce companies which fit inside both, the customers desired risk profile and the customers value system. Today people are beginning to challenge companies to use their money to better the communities. Customers today wish to invest with in companies who offer more to the greater community. 
+* **Robinhood** would be advised to offer interactive Robo-advising which allows the user to input personal preferences and returns the customer with investment strategies which introduce companies which fit inside both, the customers desired risk profile and the customers value system. Today people are beginning to challenge companies to use their money to better the communities. Customers today wish to invest with in companies who offer more to the greater community. 
 
 * Big data and artificial intelligence could be appropriately leveraged toward this solution by collecting data and analyzing patterns in order to offer automated, yet unique, solutions to each customer.
 
